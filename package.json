@@ -1,0 +1,20 @@
+{
+  "name": "coreclaw-alternative",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CoreClaw alternative: 128 parallel runs at $199 (CoreClaw: 50), $5 free credit every month, and creators keep 80%, not 10%.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "instagram"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
